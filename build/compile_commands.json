@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Aidan/Documents/Github/random_number_generator/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/rnd.dir/includes_CXX.rsp -O2 -g -DNDEBUG   -o CMakeFiles\\rnd.dir\\main.cpp.obj -c C:\\Users\\Aidan\\Documents\\Github\\random_number_generator\\main.cpp",
+  "file": "C:/Users/Aidan/Documents/Github/random_number_generator/main.cpp"
+}
+]
