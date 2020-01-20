@@ -3,6 +3,9 @@
 
 This was created in VSCode insiders with GCC 8.10 x86_64. Although you should be able to easily edit it in any C++ IDE.
 
+Link to random.hpp file repository. (thanks for existing!)
+https://github.com/effolkronium/random
+
 Happy Generating!!
 
 ## Command Line Options
