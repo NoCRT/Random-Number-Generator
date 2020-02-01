@@ -108,6 +108,11 @@ int main(int argc, const char *argv[])
 
             printf("\n\nTIME TAKEN : (MLS) %i\n", elapsedTime.getElapsedTime().asMilliseconds());
             printf("TIME TAKEN : (MCS) %i\n", elapsedTime.getElapsedTime().asMicroseconds());
+
+            // wait for input before closing
+            while (std::cin.get() != '\n')
+            {
+            };
         }
         else // no text
         {

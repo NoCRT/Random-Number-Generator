@@ -14,7 +14,7 @@ CostDataFile:
 Site: DESKTOP-U0O25SD
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
-BuildName: Win32-mingw32-make
+BuildName: Win32-make
 
 # Subprojects
 LabelsForSubprojects: 
@@ -62,8 +62,8 @@ UpdateOptions:
 UpdateType: git
 
 # Compiler info
-Compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/g++.exe
-CompilerVersion: 8.1.0
+Compiler: C:/MinGW/bin/g++.exe
+CompilerVersion: 9.2.0
 
 # Dynamic analysis (MemCheck)
 PurifyCommand: 
@@ -76,7 +76,7 @@ MemoryCheckCommandOptions:
 MemoryCheckSuppressionFile: 
 
 # Coverage
-CoverageCommand: C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/gcov.exe
+CoverageCommand: C:/MinGW/bin/gcov.exe
 CoverageExtraFlags: -l
 
 # Cluster commands
